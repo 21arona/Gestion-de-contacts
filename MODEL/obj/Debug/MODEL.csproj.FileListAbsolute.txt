@@ -1,0 +1,12 @@
+C:\_mes_cours\d05_e22\d05-a22-octobre-groupe2\TP CSharp Groupe2_Khadija_Arona\MODEL\bin\Debug\MODEL.dll
+C:\_mes_cours\d05_e22\d05-a22-octobre-groupe2\TP CSharp Groupe2_Khadija_Arona\MODEL\bin\Debug\MODEL.pdb
+C:\_mes_cours\d05_e22\d05-a22-octobre-groupe2\TP CSharp Groupe2_Khadija_Arona\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\_mes_cours\d05_e22\d05-a22-octobre-groupe2\TP CSharp Groupe2_Khadija_Arona\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\_mes_cours\d05_e22\d05-a22-octobre-groupe2\TP CSharp Groupe2_Khadija_Arona\MODEL\obj\Debug\MODEL.dll
+C:\_mes_cours\d05_e22\d05-a22-octobre-groupe2\TP CSharp Groupe2_Khadija_Arona\MODEL\obj\Debug\MODEL.pdb
+C:\vsc-workspace\d05_e22\d05-a22-octobre-groupe2\TP CSharp Groupe2_Khadija_Arona\MODEL\bin\Debug\MODEL.dll
+C:\vsc-workspace\d05_e22\d05-a22-octobre-groupe2\TP CSharp Groupe2_Khadija_Arona\MODEL\bin\Debug\MODEL.pdb
+C:\vsc-workspace\d05_e22\d05-a22-octobre-groupe2\TP CSharp Groupe2_Khadija_Arona\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\vsc-workspace\d05_e22\d05-a22-octobre-groupe2\TP CSharp Groupe2_Khadija_Arona\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\vsc-workspace\d05_e22\d05-a22-octobre-groupe2\TP CSharp Groupe2_Khadija_Arona\MODEL\obj\Debug\MODEL.dll
+C:\vsc-workspace\d05_e22\d05-a22-octobre-groupe2\TP CSharp Groupe2_Khadija_Arona\MODEL\obj\Debug\MODEL.pdb
